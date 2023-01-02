@@ -1,0 +1,3 @@
+autoincrement-versions-maven-plugin/target/
+.idea
+*.iml
